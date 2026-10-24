@@ -1,14 +1,69 @@
-<h1 align="center">Hi 👋, I'm Quazi Masudur Rahman(qmranik).</h1>
-<h3 align="center">Problem Solver | Autodidact | Explorer</h3>
+<h1 align="center">Quazi Masudur Rahman</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/qmranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qmranik" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/qmranik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="qmranik" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/qmr_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="qmr_anik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/qmr-anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qmr-anik" height="30" width="40" /></a>
+<p align="center">
+  <b>DevSecOps Engineer · Azure Cloud &amp; Platform Engineering · Backend (Go)</b><br/>
+  Dhaka, Bangladesh · working remotely
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/qmranik"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-qmranik-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:qmranik@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-qmranik%40gmail.com-EA4335?logo=gmail&logoColor=white"/></a>
+  <img alt="Open to" src="https://img.shields.io/badge/Open%20to-DevSecOps%20%C2%B7%20Platform%20%C2%B7%20Cloud%20Security-2ea44f"/>
+</p>
 
+---
+
+### About
+
+I build secure, cloud-native platforms and the services that run on them. Nearly four years in, my work
+sits where infrastructure, security and backend engineering meet:
+
+- **Today:** building a client's greenfield Azure estate from the ground up: landing zone, subscription
+  governance, modular Terraform, AKS, CI/CD and compliance evidence mapped to infrastructure controls.
+- **Before that:** Go, Node.js and Python microservices on AWS and Kubernetes, event-driven systems
+  (RabbitMQ), and RAG / LLM pipelines.
+- **On the side:** a secure agentic platform of my own, run in production for a small business.
+
+### Focus areas
+
+| Area | What I actually do |
+|---|---|
+| **DevSecOps & CI/CD** | Build-scan-deploy pipelines, secretless OIDC workload identity, policy-as-code, least-privilege RBAC |
+| **Azure platform** | Landing zones, management groups, hub-and-spoke networking, private endpoints, Entra ID, Key Vault, Azure Monitor |
+| **Infrastructure as Code** | Modular Terraform with reviewed-plan-equals-applied-plan discipline; no click-ops writes |
+| **Kubernetes** | AKS and ACR, Helm, Flux-style GitOps, containerised Go / Node.js / Python services |
+| **Secure agentic systems** | LLM agents with guarded tool access, sandboxed workers, human approval gates for anything outward-facing |
+
+### Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**rss-aggregator-backend**](https://github.com/qmranik/rss-aggregator-backend) | Concurrent RSS feed collector with JWT auth and Stripe payments, backed by PostgreSQL | Go · PostgreSQL · JWT · Stripe |
+| [**Smart-Classroom**](https://github.com/qmranik/Smart-Classroom) | LAN Android app that streams a teacher's microphone audio to student devices | Android · Java · multithreading |
+| **MuslimBot** *(private)* | Multi-tenant agentic platform with a white-label blueprint system; its first tenant is a live travel agency | Python · LLM agents · Kubernetes |
+| **Client platform work** *(confidential)* | Greenfield Azure landing zone and AKS platform for a regulated enterprise workload | Azure · Terraform · AKS · Azure DevOps |
+
+Earlier open-source contributions (forks): Wikimedia Commons Android, Kiwix Android, Mifos Mobile,
+AnitaB.org Mentorship Android, MIT App Inventor.
+
+### Tech stack
+
+**Cloud** &nbsp;Azure (primary) · AWS (EC2, S3, RDS, Lambda, IAM)<br/>
+**IaC & containers** &nbsp;Terraform · Docker · Kubernetes / AKS · Helm<br/>
+**CI/CD** &nbsp;Azure DevOps Pipelines · GitLab CI/CD · OIDC workload identity<br/>
+**Security** &nbsp;Entra ID · Key Vault · RBAC · Azure Policy · secrets management · audit logging · network isolation<br/>
+**Languages** &nbsp;Go · Python · TypeScript / Node.js · SQL<br/>
+**Data & messaging** &nbsp;PostgreSQL · RabbitMQ · REST / OpenAPI · WebSockets<br/>
+**Observability & testing** &nbsp;Azure Monitor · Log Analytics · Datadog · k6 · TDD<br/>
+**AI** &nbsp;LangChain · RAG · Hugging Face Transformers
+
+### Background
+
+B.Sc. in Computer Science and Engineering, Daffodil International University (2023).
+Competitive programming roots: [Codeforces](https://codeforces.com/profile/qmr_anik) ·
+[LeetCode](https://leetcode.com/qmr-anik) · [CodeChef](https://www.codechef.com/users/qmranik).
+
+### Get in touch
+
+Open to DevSecOps, platform engineering and cloud security roles and consulting.
+Best reached on [LinkedIn](https://linkedin.com/in/qmranik) or by [email](mailto:qmranik@gmail.com).
